@@ -1,3 +1,6 @@
+***RAY TRACING scripts***
+https://drive.google.com/drive/folders/1PWyoijXEySHfQCxQs65NDdb863D2wLG4?usp=sharing
+
 **With camera selected:**
 
  - rotate eye around the target: hold and drag left mouse button
