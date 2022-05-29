@@ -1,0 +1,16 @@
+NANCY:
+
+camera:
+eye=[932923.12,6844583.52, 328], 
+target=[933620.37, 6848061.32, 328],
+up=[0, 0.9, 0.5],       -> mieux vaut ne pas le renseigner
+aperture_radius=0.06,
+aperture_fract=0.2,
+focal_scale=0.024,
+fov=84 ou 55
+
+- PDV 1
+position cam (lat/long) : 48.659422, 6.163339      ->      932921.98, 6844583.18  (X, Y)
+328 ELEV (en mètres)
+
+target (tour thiers) : 933620.37, 6848061.32 (X, Y)     ->      48.69348, 6.17414   (lat/long)           ELEV 214 m.
