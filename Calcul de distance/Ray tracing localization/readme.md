@@ -1,5 +1,6 @@
 ***RAY TRACING scripts***
-https://drive.google.com/drive/folders/1PWyoijXEySHfQCxQs65NDdb863D2wLG4?usp=sharing
+
+Bases de coordonnées de la région de Nancy (Lambert93) : https://drive.google.com/drive/folders/1PWyoijXEySHfQCxQs65NDdb863D2wLG4?usp=sharing
 
 **With camera selected:**
 
