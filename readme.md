@@ -4,7 +4,7 @@ Le projet s’est divisé en quatre étape : l’élaboration d’une base de do
 
 Ce dépôt git regroupe l'ensemble de notre travail sur le projet.
 
-Une version de ce dépôt est également disponible sur un drive partagé, qui contient également la base de données. Une version plus générale de cette base de données est également disponible sur roboflow pour faciliter l'exportation de la base de données vers d'autres méthodes d'annotations.
+Une version de ce dépôt est également disponible sur un drive partagé via ce lien : https://drive.google.com/drive/folders/136AtW_vWocl7qL7KP9YyEv08k3rUSJ3j?usp=sharing, qui contient également la base de données. Une version plus générale de cette base de données est également disponible sur roboflow pour faciliter l'exportation de la base de données vers d'autres méthodes d'annotations.
 
 Une vidéo de présentation de notre projet est disponible via ce lien :
 https://www.youtube.com/watch?v=Aug0GgjeQTg
